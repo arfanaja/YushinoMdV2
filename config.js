@@ -2,8 +2,8 @@
 /*
 ⫰⫯ Note!! Kalo Mau Hapus Ngotak Dulu,Siapa Yg Buat Siapa Yg Kerja Siapa Yang Nyediain Scriptnya
 
-𝐀𝐮𝐭𝐡𝐨𝐫 : 𝐴𝑙𝑑𝑖 𝐿𝑒𝑠𝑚𝑎𝑛𝑎 
-𝐖𝐚 : 081361281833
+𝐀𝐮𝐭𝐡𝐨𝐫 : 𝔸𝕣𝕗𝕒𝕟
+𝐖𝐚 : 𝟘𝟠𝟙𝟜𝟙𝟘𝟝𝟚𝟠𝟘𝟙𝟝
 𝐛𝐚𝐬𝐞 : 𝑁𝑎𝑟𝑢𝑡𝑜𝑚𝑜
 𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : 22 𝐴𝑔𝑢𝑠𝑡𝑢𝑠 2022
 
@@ -80,12 +80,12 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281348106274', 'DaniXd', true],
-['6281251549899', 'DaniOfc', true]
+['6281410528015', 'DaniXd', true],
+['6281410528015', 'DaniOfc', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6281352848936'
+global.nomorbot = '6281410528015'
 global.nomorown = '6281251549899'
 global.nomorown1 = '6281251549899'
 global.nomorown2 = '6281348106274'
@@ -95,23 +95,23 @@ global.nomorwa = '0'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'DaniXd'
-global.namebot = '​ DaniBotz'
-global.wm = '© DaniBotz Bye DaniXd'
+global.author = '𝔸ℝ𝔽𝔸ℕ'
+global.namebot = '​ 𝔸𝕣𝕗𝕒𝕟Botz'
+global.wm = '© 𝔸𝕣𝕗𝕒𝕟Botz Bye 𝔸𝕣𝕗𝕒𝕟Xd'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
-global.wm = 'DaniXd '
+global.wm = '𝔸𝕣𝕗𝕒𝕟Xd '
 global.watermark = wm
-global.wm2 = 'DaniXd '
+global.wm2 = '𝔸𝕣𝕗𝕒𝕟Xd '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉`
-global.stickpack = '𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉'
-global.stickauth = `© DaniBotz MD`
+global.titlebot = `𝕞𝕠𝕕𝕕𝕖𝕣 𝐗 𝕞𝕠𝕕𝕕𝕖𝕣`
+global.stickpack = '𝕔𝕦𝕡𝕦 𝐗 𝕜𝕒𝕥𝕣𝕠'
+global.stickauth = `© 𝔸𝕣𝕗𝕒𝕟Botz MD`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'DaniXd'
-global.nameown2 = 'DaniOfc'
+global.nameown1= '𝔸𝕣𝕗𝕒𝕟Xd'
+global.nameown2 = '𝔸𝕣𝕗𝕒𝕟Ofc'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/hyuuraofc'
